@@ -1,4 +1,4 @@
-# spring-security-authentication
+# Spring Security (authentication)
 
 Used: 
 thymeleaf + ajax, 
